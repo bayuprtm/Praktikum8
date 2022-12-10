@@ -13,9 +13,6 @@
 ![flowchart](https://user-images.githubusercontent.com/115516635/205839633-0e9c1156-1382-48ca-830e-76bdbc056de3.jpeg)
 
 
-
-![Gambar 3](img/ss2.png)
-
 ### B. Program
 
 ```bash
