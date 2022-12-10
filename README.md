@@ -196,7 +196,7 @@ while Loop:
 
     #### Output lihat()
 
-<img width="329" alt="L" src="https://user-images.githubusercontent.com/115516635/206869493-44a406b4-867b-4b2a-8358-01330fc5d8a6.png">
+<img width="179" alt="Lihat data" src="https://user-images.githubusercontent.com/115516635/206869639-70472ab0-82f8-4392-bd0e-be878297a2ba.png">
 
 
 7. Mengubah data ( **ubah()** )
