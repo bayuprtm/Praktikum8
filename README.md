@@ -4,9 +4,11 @@
  # Nim : 312210351
  # Kelas : TI.22.A3
 
+<img width="600" alt="praktikum 8" src="https://user-images.githubusercontent.com/115516635/206861210-6824eb25-af58-4bd3-8469-89d7528af4b3.png">
 
 
-### A. Flowchart
+
+### A. FLOWCHART
 
 ![flowchart](https://user-images.githubusercontent.com/115516635/205839633-0e9c1156-1382-48ca-830e-76bdbc056de3.jpeg)
 
@@ -113,7 +115,7 @@ while Loop:
         Loop = False
 ```
 
-### D. Penjelasan
+### C. Penjelasan
 
 1. Untuk memanggil fungsi dengan nama "os".
 
