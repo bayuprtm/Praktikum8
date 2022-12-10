@@ -169,8 +169,8 @@ while Loop:
         ```
 
     #### Output tambah()
+<img width="186" alt="tambah data" src="https://user-images.githubusercontent.com/115516635/206869534-2b89e48e-b524-4825-bd43-6383ceeaaa80.png">
 
-    ![Gambar 4](img/ss3.jpeg)
 
 6. Menampilkan data ( **lihat()** )
     * Jika belum menginput data, maka akan memanggil fungsi `no_data()`.
@@ -196,7 +196,8 @@ while Loop:
 
     #### Output lihat()
 
-    ![Gambar 5](img/ss4.jpeg)
+<img width="329" alt="L" src="https://user-images.githubusercontent.com/115516635/206869493-44a406b4-867b-4b2a-8358-01330fc5d8a6.png">
+
 
 7. Mengubah data ( **ubah()** )
     * Menginput nama, kemudian input data yang ingin diubah. 
@@ -220,8 +221,8 @@ while Loop:
         ```
 
     #### Output ubah()
+<img width="220" alt="ubah data" src="https://user-images.githubusercontent.com/115516635/206869494-7533af54-785e-4047-bab0-72cf5a1f08ac.png">
 
-    ![Gambar 6](img/ss5.jpeg)
 
 8. Menghapus data ( **hapus()** )
     * Menginput nama, setelah nama diinput maka data yang lainnya akan ikut terhapus sesuai dengan nama yang diinputkan.
@@ -242,8 +243,8 @@ while Loop:
         ```
 
     #### Output hapus()
+<img width="184" alt="HAPUS DATA" src="https://user-images.githubusercontent.com/115516635/206869495-7934918e-cac7-476e-be0b-b80c4b6fbdb4.png">
 
-    ![Gambar 7](img/ss6.jpeg)
 
 9. Menggunakan perulangan uncountable, yang artinya selama statement bernilai "True" maka program akan terus berjalan. Jika statementnya "False" maka program terhenti.
 
